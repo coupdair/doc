@@ -192,7 +192,7 @@
      inkscape:cx="494.31016"
      inkscape:cy="1100.0911"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="g3806"
      showgrid="false"
      units="mm"
      inkscape:window-width="1916"
@@ -260,7 +260,8 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="narrow"
-     style="display:inline">
+     style="display:none"
+     sodipodi:insensitive="true">
     <rect
        style="fill:url(#linearGradient3977);fill-opacity:1;stroke:none;display:inline"
        id="rect2985-2-7-7-0-1-1"
@@ -369,18 +370,17 @@
      id="layer10"
      inkscape:label="## straight-river-narrow ##" />
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="standard"
      id="g3806"
-     inkscape:groupmode="layer"
-     sodipodi:insensitive="true">
+     inkscape:groupmode="layer">
     <rect
        y="85.03936"
        x="341.07434"
        height="907.08661"
        width="364.49442"
        id="rect3812"
-       style="fill:#9b9b9b;fill-opacity:1;stroke:none;display:inline" />
+       style="fill:#909090;fill-opacity:1;stroke:none;display:inline" />
     <rect
        transform="matrix(0,1,-1,0,0,0)"
        y="-337.63779"
@@ -403,14 +403,14 @@
        height="907.08661"
        width="14.173228"
        id="rect3814"
-       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+       style="fill:#dedede;fill-opacity:1;stroke:none" />
     <rect
        y="85.03936"
        x="704.09448"
        height="907.08661"
        width="14.173228"
        id="rect3816"
-       style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+       style="fill:#dedede;fill-opacity:1;stroke:none;display:inline" />
   </g>
   <g
      style="display:none"
