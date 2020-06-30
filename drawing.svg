@@ -14,10 +14,17 @@
    height="1488.189"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.47 r22583"
    sodipodi:docname="drawing.svg">
   <defs
      id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 744.09448 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1052.3622 : 744.09448 : 1"
+       inkscape:persp3d-origin="526.18109 : 496.06299 : 1"
+       id="perspective67" />
     <linearGradient
        id="linearGradient3869">
       <stop
@@ -181,16 +188,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="360.05612"
-     inkscape:cy="1120.3772"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="178.22866"
+     inkscape:cy="958.75279"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="layer8"
      showgrid="false"
      units="mm"
-     inkscape:window-width="1996"
+     inkscape:window-width="1916"
      inkscape:window-height="980"
-     inkscape:window-x="355"
+     inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="0" />
   <metadata
@@ -209,7 +216,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="narrow_image"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <image
        transform="translate(0,435.82682)"
@@ -224,13 +231,12 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="green image"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <image
        y="85.03936"
        x="70.866142"
        id="image4058"
-       xlink:href="file:///home/xubuntu/Seb/LEGO/print/Green%20Studs%20-%20Desktop.png"
+       xlink:href="file:///home/coudert/personnel/Seb/deco/LEGO/Green%20Studs%20-%20Desktop.png"
        height="907.08661"
        width="907.08661" />
   </g>
@@ -309,12 +315,12 @@
        y="85.03936"
        x="70.866142"
        id="image3844"
-       xlink:href="file:///home/xubuntu/Seb/LEGO/print/Blue%20Studs%20-%20Desktop.png"
+       xlink:href="file:///home/coudert/personnel/Seb/deco/LEGO/Blue%20Studs%20-%20Desktop.png"
        height="907.08661"
        width="907.08661" />
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="river"
      id="g3849"
      inkscape:groupmode="layer">
@@ -362,7 +368,7 @@
      id="layer10"
      inkscape:label="## straight-river-narrow ##" />
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="standard"
      id="g3806"
      inkscape:groupmode="layer"
@@ -406,12 +412,12 @@
        style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="## straight-with-runway ## 9 a side"
      id="g3804"
      inkscape:groupmode="layer" />
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="top"
      id="g3801"
      inkscape:groupmode="layer"
