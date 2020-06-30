@@ -128,7 +128,7 @@
        x2="760.2677"
        y2="538.58264"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-1506.3622,0)" />
+       gradientTransform="translate(-1509.9039,0)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3869-6"
@@ -155,7 +155,7 @@
        x2="760.2677"
        y1="538.58264"
        x1="746.09448"
-       gradientTransform="translate(-455.54336,1.0313957e-5)"
+       gradientTransform="translate(-459.08666,1.0313957e-5)"
        gradientUnits="userSpaceOnUse"
        id="linearGradient3902"
        xlink:href="#linearGradient3869-6"
@@ -188,11 +188,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="178.22866"
-     inkscape:cy="958.75279"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="494.31016"
+     inkscape:cy="1100.0911"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer8"
+     inkscape:current-layer="layer2"
      showgrid="false"
      units="mm"
      inkscape:window-width="1916"
@@ -231,7 +231,8 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="green image"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <image
        y="85.03936"
        x="70.866142"
@@ -259,8 +260,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="narrow"
-     style="display:none"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
        style="fill:url(#linearGradient3977);fill-opacity:1;stroke:none;display:inline"
        id="rect2985-2-7-7-0-1-1"
@@ -278,21 +278,21 @@
        y="-779.52753"
        transform="matrix(0,1,-1,0,0,0)" />
     <rect
-       style="fill:#9b9b9b;fill-opacity:1;stroke:none;display:inline"
+       style="fill:#909090;fill-opacity:1;stroke:none;display:inline"
        id="rect2985-6"
        width="453.38785"
        height="907.08661"
        x="297.63779"
        y="85.03936" />
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       style="fill:#dedede;fill-opacity:1;stroke:none"
        id="rect3119"
        width="14.173228"
        height="907.08661"
        x="290.55118"
        y="85.039375" />
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+       style="fill:#dedede;fill-opacity:1;stroke:none;display:inline"
        id="rect3119-1"
        width="14.173228"
        height="907.08661"
@@ -320,10 +320,11 @@
        width="907.08661" />
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="river"
      id="g3849"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
     <rect
        y="85.03936"
        x="288.54642"
@@ -333,23 +334,23 @@
        style="fill:#0180c5;fill-opacity:1;stroke:none;display:inline" />
     <rect
        transform="matrix(0,1,-1,0,0,0)"
-       y="-292.58704"
+       y="-290.55118"
        x="85.03936"
-       height="23.295692"
+       height="17.716536"
        width="907.08661"
        id="rect3851"
        style="fill:#00ffff;fill-opacity:1;stroke:none;display:inline" />
     <rect
        transform="matrix(0,1,-1,0,0,0)"
-       y="-779.52753"
+       y="-775.96869"
        x="85.039383"
-       height="21.275389"
+       height="17.716536"
        width="907.08661"
        id="rect3853"
        style="fill:#01ffff;fill-opacity:1;stroke:none;display:inline" />
     <rect
        y="85.03936"
-       x="-760.2677"
+       x="-763.80945"
        height="907.08661"
        width="14.173228"
        id="rect3859"
@@ -357,7 +358,7 @@
        transform="scale(-1,1)" />
     <rect
        y="85.03936"
-       x="290.55118"
+       x="287.00787"
        height="907.08661"
        width="14.173228"
        id="rect3859-5"
@@ -417,18 +418,17 @@
      id="g3804"
      inkscape:groupmode="layer" />
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="top"
      id="g3801"
-     inkscape:groupmode="layer"
-     sodipodi:insensitive="true">
+     inkscape:groupmode="layer">
     <rect
        y="-350.78745"
        x="517.32281"
        height="907.08661"
        width="14.173228"
        id="rect3805"
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       style="fill:#dedede;fill-opacity:1;stroke:none"
        transform="translate(0,435.82682)" />
   </g>
   <g
