@@ -188,11 +188,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.9899495"
-     inkscape:cx="494.31016"
-     inkscape:cy="1100.0911"
+     inkscape:zoom="0.7"
+     inkscape:cx="823.09917"
+     inkscape:cy="978.8728"
      inkscape:document-units="mm"
-     inkscape:current-layer="g3806"
+     inkscape:current-layer="g3645"
      showgrid="false"
      units="mm"
      inkscape:window-width="1916"
@@ -231,7 +231,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="green image"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <image
        y="85.03936"
@@ -240,6 +240,19 @@
        xlink:href="file:///home/coudert/personnel/Seb/deco/LEGO/Green%20Studs%20-%20Desktop.png"
        height="907.08661"
        width="907.08661" />
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="gray image TODO"
+     id="g3645"
+     inkscape:groupmode="layer">
+    <image
+       width="907.08661"
+       height="907.08661"
+       xlink:href="file:///home/coudert/personnel/Seb/deco/LEGO/Gray%20Studs%20-%20Desktop.png"
+       id="image3647"
+       x="70.866142"
+       y="85.03936" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -368,9 +381,10 @@
   <g
      inkscape:groupmode="layer"
      id="layer10"
-     inkscape:label="## straight-river-narrow ##" />
+     inkscape:label="## straight-river-narrow ##"
+     style="display:none" />
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="standard"
      id="g3806"
      inkscape:groupmode="layer">
@@ -418,6 +432,54 @@
      id="g3804"
      inkscape:groupmode="layer" />
   <g
+     inkscape:groupmode="layer"
+     id="g3649"
+     inkscape:label="standard dark green"
+     style="display:inline">
+    <rect
+       style="fill:#909090;fill-opacity:1;stroke:none;display:inline"
+       id="rect3651"
+       width="364.49442"
+       height="907.08661"
+       x="341.07434"
+       y="85.03936" />
+    <rect
+       style="fill:#909090;fill-opacity:1;stroke:none;display:inline"
+       id="rect3653"
+       width="907.08661"
+       height="14.204321"
+       x="85.03936"
+       y="-337.63779"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       style="fill:#909090;fill-opacity:1;stroke:none;display:inline"
+       id="rect3655"
+       width="907.08661"
+       height="18.24493"
+       x="85.039383"
+       y="-725.42603"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       style="fill:#008000;fill-opacity:1;stroke:none"
+       id="rect3657"
+       width="14.173228"
+       height="907.08661"
+       x="330.55118"
+       y="85.039375" />
+    <rect
+       style="fill:#008000;fill-opacity:1;stroke:none;display:inline"
+       id="rect3659"
+       width="14.173228"
+       height="907.08661"
+       x="704.09448"
+       y="85.03936" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="## straight way ##"
+     style="display:inline" />
+  <g
      style="display:inline"
      inkscape:label="top"
      id="g3801"
@@ -447,5 +509,5 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="temp"
-     style="display:inline" />
+     style="display:none" />
 </svg>
